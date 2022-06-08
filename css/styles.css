@@ -1,0 +1,22 @@
+body{
+  background-color: #cecece;
+  text-align: center;
+}
+.card-div{
+  margin:20px 5px;
+  border-radius: 0;
+  text-align: left;
+}
+
+.card-holder{
+  padding:2%;
+}
+h2{
+  font-family: serif;
+  font-weight: bold;
+}
+@media (max-width:1000px){
+  .d-flex{
+    flex-direction: column;
+  }
+}
